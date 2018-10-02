@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "193608148228",
+    "firebase_url": "https://e2emessenger-1acd9.firebaseio.com",
+    "project_id": "e2emessenger-1acd9",
+    "storage_bucket": "e2emessenger-1acd9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:193608148228:android:c3f343d7781d49c2",
+        "android_client_info": {
+          "package_name": "com.example.vishistvarugeese.e2emessenger"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "193608148228-uiij31hpn8a2hqfavnlv2qhqdm7co4o8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPkX85-UAU-RXk4UOSF6olB1r-EAfRVVQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
